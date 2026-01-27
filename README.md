@@ -1,39 +1,108 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>Hello World👋, Barisigara Simon here</b></h1>
-<p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=I+am+Barisigara+Simon...;I+am...;A+passionate+software+developer;Specializing+in+data+analysis+and+ML;Co-Lead+at+GDSC+UICT!" alt="Typing SVG" /></a>
-<picture>
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-/>
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-/>
-<img
-alt="github contribution grid snake animation"
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-/>
-</picture>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="simon-barisigara"> 
 
-🔭 I’m currently working on Web Development, Data Analysis and ML models
-🌱 I’m currently learning Python, ML frameworks, Data Science tools, and generative AI.
-👯 I’m looking to collaborate on GDSC Projects and Open Source ML initiatives
-💬 Ask me about Data Analysis, Machine Learning, Python, Software Engineering, and Tech Leadership
-📫 How to reach me simonbarisigara@gmail.com
-⚡ Fun fact I enjoy exploring the intersection of technology and real-world impact!
-<img align="right" alt="Coding" width=200 src="https://camo.githubusercontent.com/ffbf71edb9eb65671926a8cc42a5a740bf5b799a9b93699a3a0de76e1793a80b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966">
+<h1 align="center"><b>👋 Hello World, I'm Barisigara Simon</b></h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11F712&center=true&width=750&lines=Software+Developer+%7C+Data+Analyst+%7C+ML+Enthusiast;Co-Lead+%40+Google+Developer+Student+Clubs+UICT;Passionate+about+Tech+for+Social+Impact!" alt="Typing SVG" />
+</a>
+</p>
 
-Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/simon-barisigara-054008254" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:simonbarisigara@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/simonbarisigara">
+    <img src="https://komarev.com/ghpvc/?username=simonbarisigara&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  </a>
+</p>
 
-<img align="center" src="(https://www.linkedin.com/in/simon-barisigara-054008254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" alt="simon-barisigara" height="30" width="40">
+---
 
-Languages and Tools:
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40">   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40">   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40">   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40">  
+## 👨‍💻 About Me
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonbarisigara&#x26;theme=gotham&#x26;count_private=true&#x26;show_icons=true&#x26;include_all_commits=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonbarisigara&#x26;layout=compact&#x26;theme=gotham&#x26;langs_count=8">
-  <img src="https://komarev.com/ghpvc/?username=simonbarisigara&#x26;abbreviated=true">
+I'm a passionate software developer specializing in **Data Analysis** and **Machine Learning**. Currently serving as **Co-Lead at Google Developer Student Clubs (GDSC) UICT**, I thrive at the intersection of technology, community, and real-world impact.
+
+-  **Currently working on:** Web Development projects, Data Analysis pipelines, and ML model implementations
+-  **Currently learning:** Advanced Python frameworks, MLOps, Data Engineering tools, and Generative AI
+-  **Looking to collaborate on:** GDSC community projects, Open Source ML/AI initiatives, and tech-for-good solutions
+-  **Ask me about:** Data Analysis workflows, Machine Learning algorithms, Python programming, Software Architecture, and Tech Leadership
+-  **Fun fact:** I believe the best code solves real human problems - and I love exploring how technology can drive meaningful change!
+
+---
+
+## 🛠️ Tech Stack
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **Data Science & ML**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Mobile & Web Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### **Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+  
+| | |
+|:---:|:---:|
+| **Languages** | **Streak** |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simonbarisigara&show_icons=true&theme=gotham&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="180"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonbarisigara&theme=gotham&hide_border=true&fire=DD2727" alt="GitHub Streak" height="180"> |
+| **Stats** | **Contribution Graph** |
+| <img src="https://github-readme-stats.vercel.app/api?username=simonbarisigara&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"> | <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="180"> </picture> |
+
+</div>
+
+---
+
+##  Featured Projects
+
+###  ML/AI Projects
+- **Project 1:** [ML Model Name](link) - Brief description
+- **Project 2:** [Data Analysis Tool](link) - Brief description
+
+###  Web Development
+- **Project 3:** [Web App Name](link) - Brief description
+- **Project 4:** [API Service](link) - Brief description
+
+###  Mobile Apps
+- **Project 5:** [Flutter App](link) - Brief description
+- **Project 6:** [Android App](link) - Brief description
+
+> * Want to see more? Check out my [repositories](https://github.com/simonbarisigara?tab=repositories)*
+
+---
+
+##  Currently Focused On
+
+```python
+current_focus = {
+    "primary": "Building scalable data pipelines",
+    "secondary": "Contributing to open-source ML projects",
+    "learning": ["MLOps", "Cloud Computing", "System Design"],
+    "community": "GDSC UICT leadership & events"
+} 

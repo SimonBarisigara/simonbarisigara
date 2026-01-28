@@ -78,31 +78,8 @@ I'm a passionate software developer specializing in **Data Analysis** and **Mach
 </div>
 
 ---
+ GitHub Trophies
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=simonbarisigara&theme=onedark&row=2&column=4&no-frame=true&margin-w=15&margin-h=15
 
-##  Featured Projects
-
-###  ML/AI Projects
-- **Project 1:** [ML Model Name](link) - Brief description
-- **Project 2:** [Data Analysis Tool](link) - Brief description
-
-###  Web Development
-- **Project 3:** [Web App Name](link) - Brief description
-- **Project 4:** [API Service](link) - Brief description
-
-###  Mobile Apps
-- **Project 5:** [Flutter App](link) - Brief description
-- **Project 6:** [Android App](link) - Brief description
-
-> * Want to see more? Check out my [repositories](https://github.com/simonbarisigara?tab=repositories)*
-
----
-
-##  Currently Focused On
-
-```python
-current_focus = {
-    "primary": "Building scalable data pipelines",
-    "secondary": "Contributing to open-source ML projects",
-    "learning": ["MLOps", "Cloud Computing", "System Design"],
-    "community": "GDSC UICT leadership & events"
-} 
+</div>

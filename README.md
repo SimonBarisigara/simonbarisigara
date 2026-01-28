@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer specializing in **Data Analysis** and **Machine Learning**. Currently serving as **Co-Lead at Google Developer Student Clubs (GDSC) UICT**, I thrive at the intersection of technology, community, and real-world impact.
+I'm a passionate software developer specializing in **Data Analysis** and **Machine Learning**. Served as **Co-Lead at Google Developer Student Clubs (GDSC) UICT**, I thrive at the intersection of technology, community, and real-world impact.
 
 -  **Currently working on:** Web Development projects, Data Analysis pipelines, and ML model implementations
 -  **Currently learning:** Advanced Python frameworks, MLOps, Data Engineering tools, and Generative AI
